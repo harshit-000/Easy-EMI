@@ -1,0 +1,79 @@
+body{
+  font-family: Poppins;
+  background-color: black;
+}
+
+
+/* Header */
+.navbar{
+  margin-bottom: 50px;
+}
+#header{
+  background-color: black;
+  margin: 70px;
+  margin-bottom: 100px;
+}
+.navItems{
+  margin-left: 46%;
+}
+.navbar-icon{
+  height: 33px;
+  width: 33px;
+}
+.navFont{
+  color: white
+}
+a:hover{
+  color: pink;
+}
+.dropdown-menu{
+  background-color: black;
+}
+.curr-select{
+  color: pink;
+}
+/* Header */
+header {
+	background-color: black;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+
+h1 {
+	margin: 0;
+}
+
+main {
+	margin: 20px;
+}
+
+section {
+	margin-bottom: 20px;
+}
+
+h2 {
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+p {
+	font-size: 16px;
+	line-height: 1.5;
+}
+
+footer {
+	background-color: black;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+
+#team{
+  padding: 5%;
+}
+
+.fa-solid{
+  color: black;
+  font-size: 3rem;
+}

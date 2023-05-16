@@ -1,0 +1,80 @@
+body{
+  font-family: Poppins;
+  background-color: black;
+}
+
+
+/* Header */
+.navbar{
+  margin-bottom: 50px;
+}
+#header{
+  background-color: black;
+  margin: 70px;
+  margin-bottom: 100px;
+}
+.navItems{
+  margin-left: 46%;
+}
+.navbar-icon{
+  height: 33px;
+  width: 33px;
+}
+.navFont{
+  color: white
+}
+a:hover{
+  color: pink;
+}
+.dropdown-menu{
+  background-color: black;
+}
+.curr-select{
+  color: pink;
+}
+/* Header */
+
+/* LOGO */
+
+.fa-solid{
+    color: white;
+    font-size: 3rem;
+}
+h3{
+  color: white;
+}
+
+/* LOGO */
+
+
+/* Banks */
+
+#banks{
+  color: white;
+  margin: 100px;
+}
+.bank{
+  margin-top: 50px;
+}
+.bank-logo{
+
+}
+.bank-disc{
+  margin: 25px;
+  border-radius: 5px;
+}
+/* Banks */
+
+
+/* Footer */
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+    color: black;
+    background-color: white
+}
+.social-button{
+    font-size: 1.5rem;
+    margin : 20px 10px;
+}
+/* Footer */

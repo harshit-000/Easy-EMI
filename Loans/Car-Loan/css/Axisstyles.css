@@ -1,0 +1,63 @@
+body{
+    font-family: Poppins;
+    background-color: black;
+  }
+  
+  
+  /* Header */
+  .navbar{
+    margin-bottom: 50px;
+  }
+  #header{
+    background-color: black;
+    margin: 70px;
+    margin-bottom: 100px;
+  }
+  .navItems{
+    margin-left: 46%;
+  }
+  .navbar-icon{
+    height: 33px;
+    width: 33px;
+  }
+  .navFont{
+    color: white
+  }
+  a:hover{
+    color: pink;
+  }
+  .dropdown-menu{
+    background-color: black;
+  }
+  .curr-select{
+    color: pink;
+  }
+  /* Header */
+
+/* Discription */
+
+#discription{
+  margin: 100px;
+}
+
+.fa-solid{
+  font-size: 2.5rem;
+  margin: 20px;
+  columns: white;
+}
+
+.home-description{
+  margin: 24px;
+  color: white;
+}
+
+.btn{
+  margin: 5px;
+}
+
+.table{
+  border: 2px solid white;
+  color: white;
+}
+
+/* Discription */
